@@ -5,6 +5,7 @@ using namespace std;
 
 int main () {
   cout << "Hello World" << endl;
-          
+  cout << "Changes to hello" << endl;
   MyClass a(5);
-  cout << a.getX() <
+  cout << a.getX() << endl;
+}
